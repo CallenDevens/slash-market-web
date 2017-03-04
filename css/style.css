@@ -1,0 +1,26 @@
+#edit_profile .row
+{
+    margin-top:10px;
+    margin-bottom:20px;
+}
+.row
+{
+    margin:0px;
+    }
+.tag
+{
+    padding:5px;
+    background-color:Gray;
+    color:White;
+    margin:10px;
+}
+
+.tab-content#setting_tab .tab-pane
+{
+    height:400px;
+    }
+    
+.remove_tag
+{
+    cursor: pointer;
+    }
